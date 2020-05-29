@@ -1,4 +1,4 @@
-# overview
+# Overview
 
 This is the overview section of Vantage Rewards. Here you can see graphical representation of the rewards timeline, users rewarded, type of reward, department wise rewards, status, and city. 
 
